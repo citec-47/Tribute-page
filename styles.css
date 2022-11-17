@@ -1,0 +1,44 @@
+body{
+    background-color:whitesmoke;
+
+}
+h1{
+    text-align: center;
+}
+.image{
+    background-color: white;
+    
+    
+
+
+
+}
+img{
+    padding: 50px;
+    margin-left: 60px;
+    width: 80%;
+    height:20%;
+
+
+}
+figcaption{
+    padding-bottom: 20px;
+    padding-left: 80px;
+    font-style: italic;
+    
+}
+
+.world{
+    margin-left: 10px;
+    padding-left: 350px;
+
+
+}
+h3.world{
+
+    text-align: center;
+}
+
+p:nth-child(3) {
+font-size: 80px;
+}
